@@ -16,7 +16,6 @@ depends "yum"
 depends "windows", ">= 1.8.8"
 
 # available @ http://supermarket.chef.io/cookbooks/rabbitmq
-depends "rabbitmq"
 
 # available @ http://supermarket.chef.io/cookbooks/redisio
 depends "redisio", ">= 1.7.0"
